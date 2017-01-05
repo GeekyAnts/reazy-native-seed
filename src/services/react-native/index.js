@@ -6,14 +6,13 @@ import Routes from '../../components/Routes';
 export default function() {
   return function() {
     const app = this;
-    const stores = app.get('state').getAllStores();
     const services = app.getAllServices();
 
     class Root extends Component {
 
       render() {
         return (
-          <Provider {...stores} {...services} app={app}>
+          <Provider {...services} app={app}>
             <Routes />
           </Provider>
         );
