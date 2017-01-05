@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "446589499263",
+    "project_id": "nativebasekitchensink"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446589499263:android:a16e0c13fd6a1758",
+        "android_client_info": {
+          "package_name": "com.nativebasekitchensink"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446589499263-def78btoqvinghv3rd452v11sb8lep91.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nativebasekitchensink",
+            "certificate_hash": "7E998175A49511F22DDB94553823853DD4963473"
+          }
+        },
+        {
+          "client_id": "446589499263-dm6eeurpikmn7lc7r10vqq5ocnt2cogp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOdYpSFxe4ECpVZnmeMEicHrO1tzXvNps"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
